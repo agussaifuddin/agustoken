@@ -1,7 +1,7 @@
 # Agus Token (AGUS)
 Welcome to Agus Token (AGUS) Digital Asset Project For Personal, Our Business & All Crypto Lovers
 
-### NOTE
+### Overview
 
 ```
 📝 Blockchain: Binance Smart Chain (BSC)
